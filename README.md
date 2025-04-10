@@ -102,3 +102,8 @@ One of my favorite things to learn about and excel at is fitness. Recently, I wa
 
 ## Demo
 https://github.com/user-attachments/assets/372c184e-f23d-43c1-aee0-28a4193f7c3a
+
+## Disclaimers / Help
+
+The code base I have given should be enough to run the app, but if you have any issues or need help with set up please reach out as I would be happy to help.
+
