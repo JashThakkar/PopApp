@@ -1,6 +1,6 @@
 # Pop
 
-One of my favorite things to learn about and accel at is fitness, and recently I was getting into meditation, and breathworking and learned about the struggles that come with getting good at it. Due to this I made a flutter app called Pop. Pop is a Box Breathing App, that effectivly guides the user through box breathing via a visual and haptic representation of their breath. The app's goal is to help the user reduce stress, improve focus, and overall improve their well being.
+One of my favorite things to learn about and excel at is fitness. Recently, I was getting into meditation and breathwork and discovered the struggles that come with mastering these practices. Because of this, I created a Flutter app called **Pop**. Pop is a box breathing app that effectively guides the user through box breathing using both visual and haptic cues. The app's goal is to help users reduce stress, improve focus, and enhance overall well-being.
 
 ## Key Features
 
@@ -18,7 +18,7 @@ One of my favorite things to learn about and accel at is fitness, and recently I
   - Manage preferences using `SharedPreferences`.
 
 - **Informative Guidance:**  
-  - Offers an Info page that explains the benefits and technique behind box breathing.  
+  - Offers an info page that explains the benefits and technique behind box breathing.  
   - Provides instructions on incorporating box breathing into daily routines.
 
 - **User-Friendly Interface:**  
@@ -48,19 +48,20 @@ One of my favorite things to learn about and accel at is fitness, and recently I
 ## Screenshots
 
 ### Breathing Exercise
-RMassets/Breath.png
+<img src="RMassets/Breath.png" alt="Breathing Exercise" width="400" />
 
 ### Home Page
-![LM Home](RMassets/lightmodehome.png)
-![DM Home](RMassets/darkmodehome.png)
+<img src="RMassets/lightmodehome.png" alt="Light Mode Home" width="400" />
+<img src="RMassets/darkmodehome.png" alt="Dark Mode Home" width="400" />
+
+### Logs Page
+<img src="RMassets/lightmodelogs.png" alt="Light Mode Logs" width="400" />
+<img src="RMassets/darkmodelogs.png" alt="Dark Mode Logs" width="400" />
 
 ### Settings Page
-![LM Logs](RMassets/lightmodelogs.png)
-![DM Logs](RMassets/darkmodelogs.png)
-
-### Settings Page
-![LM Settings](RMassets/lightmodesettings.png)
-![DM Settings](RMassets/darkmodesettings.png)
+<img src="RMassets/lightmodesettings.png" alt="Light Mode Settings" width="400" />
+<img src="RMassets/darkmodesettings.png" alt="Dark Mode Settings" width="400" />
 
 ## Demo
-https://github.com/user-attachments/assets/372c184e-f23d-43c1-aee0-28a4193f7c3a
+
+Check out the [demo video](https://github.com/user-attachments/assets/372c184e-f23d-43c1-aee0-28a4193f7c3a) for a walkthrough of the app.
