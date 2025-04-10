@@ -47,6 +47,20 @@ One of my favorite things to learn about and accel at is fitness, and recently I
 
 ## Screenshots
 
+### Breathing Exercise
+![Breath](RMassets/Breath.png)
+
+### Home Page
+![LM Home](RMassets/lightmodehome.png)
+![DM Home](RMassets/darkmodehome.png)
+
+### Settings Page
+![LM Logs](RMassets/lightmodelogs.png)
+![DM Logs](RMassets/darkmodelogs.png)
+
+### Settings Page
+![LM Settings](RMassets/lightmodesettings.png)
+![DM Settings](RMassets/darkmodesettings.png)
 
 ## Demo
 https://github.com/user-attachments/assets/372c184e-f23d-43c1-aee0-28a4193f7c3a
