@@ -1,4 +1,4 @@
-# Pop - Box Breathing made easy
+# Pop
 
 One of my favorite things to learn about and accel at is fitness, and recently I was getting into meditation, and breathworking and learned about the struggles that come with getting good at it. Due to this I made a flutter app called Pop. Pop is a Box Breathing App, that effectivly guides the user through box breathing via a visual and haptic representation of their breath. The app's goal is to help the user reduce stress, improve focus, and overall improve their well being.
 
@@ -45,5 +45,5 @@ One of my favorite things to learn about and accel at is fitness, and recently I
 - **haptic_service.dart:**  
   Manages haptic feedback settings and ensures smooth integration with the app's interactions.
 
-
+## Screenshots
 
