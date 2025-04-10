@@ -49,17 +49,17 @@ One of my favorite things to learn about and excel at is fitness. Recently, I wa
 
 ### Breath
 <center>
-  <img src="RMassets/Breath.png" alt="Breathing Exercise" width="400" />
+  <img src="RMassets/Breath.png" alt="Breathing Exercise" width="200" />
 </center>
 
 ### Home Page
 <table>
   <tr>
     <td align="center">
-      <img src="RMassets/lightmodehome.png" alt="Light Mode Home" width="400" />
+      <img src="RMassets/lightmodehome.png" alt="Light Mode Home" width="200" />
     </td>
     <td align="center">
-      <img src="RMassets/darkmodehome.png" alt="Dark Mode Home" width="400" />
+      <img src="RMassets/darkmodehome.png" alt="Dark Mode Home" width="200" />
     </td>
   </tr>
   <tr>
@@ -72,10 +72,10 @@ One of my favorite things to learn about and excel at is fitness. Recently, I wa
 <table>
   <tr>
     <td align="center">
-      <img src="RMassets/lightmodelogs.png" alt="Light Mode Logs" width="400" />
+      <img src="RMassets/lightmodelogs.png" alt="Light Mode Logs" width="200" />
     </td>
     <td align="center">
-      <img src="RMassets/darkmodelogs.png" alt="Dark Mode Logs" width="400" />
+      <img src="RMassets/darkmodelogs.png" alt="Dark Mode Logs" width="200" />
     </td>
   </tr>
   <tr>
@@ -88,10 +88,10 @@ One of my favorite things to learn about and excel at is fitness. Recently, I wa
 <table>
   <tr>
     <td align="center">
-      <img src="RMassets/lightmodesettings.png" alt="Light Mode Settings" width="400" />
+      <img src="RMassets/lightmodesettings.png" alt="Light Mode Settings" width="200" />
     </td>
     <td align="center">
-      <img src="RMassets/darkmodesettings.png" alt="Dark Mode Settings" width="400" />
+      <img src="RMassets/darkmodesettings.png" alt="Dark Mode Settings" width="200" />
     </td>
   </tr>
   <tr>
