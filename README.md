@@ -46,4 +46,4 @@ One of my favorite things to learn about and accel at is fitness, and recently I
   Manages haptic feedback settings and ensures smooth integration with the app's interactions.
 
 ## Screenshots
-
+https://github.com/user-attachments/assets/ec332050-676c-4700-8ba7-ca73eb8dcc5a
