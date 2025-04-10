@@ -45,5 +45,7 @@ One of my favorite things to learn about and accel at is fitness, and recently I
 - **haptic_service.dart:**  
   Manages haptic feedback settings and ensures smooth integration with the app's interactions.
 
-## Screenshots
-https://github.com/user-attachments/assets/ec332050-676c-4700-8ba7-ca73eb8dcc5a
+## SceenShots
+
+## Demo
+https://github.com/user-attachments/assets/372c184e-f23d-43c1-aee0-28a4193f7c3a
