@@ -48,7 +48,7 @@ One of my favorite things to learn about and accel at is fitness, and recently I
 ## Screenshots
 
 ### Breathing Exercise
-![Breath](RMassets/Breath.png)
+RMassets/Breath.png
 
 ### Home Page
 ![LM Home](RMassets/lightmodehome.png)
