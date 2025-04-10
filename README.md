@@ -1,6 +1,6 @@
 # Pop - Box Breathing made easy
 
-Box Breathing App is a simple, effective guided meditation and breathing exercise application built with Flutter. It is designed to help users reduce stress, improve focus, and enhance overall well-being by following the proven box breathing technique.
+One of my favorite things to learn about and accel at is fitness, and recently I was getting into meditation, and breathworking and learned about the struggles that come with getting good at it. Due to this I made a flutter app called Pop. Pop is a Box Breathing App, that effectivly guides the user through box breathing via a visual and haptic representation of their breath. The app's goal is to help the user reduce stress, improve focus, and overall improve their well being.
 
 ## Key Features
 
@@ -45,9 +45,5 @@ Box Breathing App is a simple, effective guided meditation and breathing exercis
 - **haptic_service.dart:**  
   Manages haptic feedback settings and ensures smooth integration with the app's interactions.
 
-## Getting Started
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/box_breathing.git
-   cd box_breathing
+
