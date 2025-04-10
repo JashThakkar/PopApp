@@ -47,21 +47,58 @@ One of my favorite things to learn about and excel at is fitness. Recently, I wa
 
 ## Screenshots
 
-### Breathing Exercise
-<img src="RMassets/Breath.png" alt="Breathing Exercise" width="400" />
+### Breath
+<center>
+  <img src="RMassets/Breath.png" alt="Breathing Exercise" width="400" />
+</center>
 
 ### Home Page
-<img src="RMassets/lightmodehome.png" alt="Light Mode Home" width="400" />
-<img src="RMassets/darkmodehome.png" alt="Dark Mode Home" width="400" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="RMassets/lightmodehome.png" alt="Light Mode Home" width="400" />
+    </td>
+    <td align="center">
+      <img src="RMassets/darkmodehome.png" alt="Dark Mode Home" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Light Mode</strong></td>
+    <td align="center"><strong>Dark Mode</strong></td>
+  </tr>
+</table>
 
 ### Logs Page
-<img src="RMassets/lightmodelogs.png" alt="Light Mode Logs" width="400" />
-<img src="RMassets/darkmodelogs.png" alt="Dark Mode Logs" width="400" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="RMassets/lightmodelogs.png" alt="Light Mode Logs" width="400" />
+    </td>
+    <td align="center">
+      <img src="RMassets/darkmodelogs.png" alt="Dark Mode Logs" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Light Mode Logs</strong></td>
+    <td align="center"><strong>Dark Mode Logs</strong></td>
+  </tr>
+</table>
 
 ### Settings Page
-<img src="RMassets/lightmodesettings.png" alt="Light Mode Settings" width="400" />
-<img src="RMassets/darkmodesettings.png" alt="Dark Mode Settings" width="400" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="RMassets/lightmodesettings.png" alt="Light Mode Settings" width="400" />
+    </td>
+    <td align="center">
+      <img src="RMassets/darkmodesettings.png" alt="Dark Mode Settings" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Light Mode Settings</strong></td>
+    <td align="center"><strong>Dark Mode Settings</strong></td>
+  </tr>
+</table>
 
 ## Demo
-
-Check out the [demo video](https://github.com/user-attachments/assets/372c184e-f23d-43c1-aee0-28a4193f7c3a) for a walkthrough of the app.
+https://github.com/user-attachments/assets/372c184e-f23d-43c1-aee0-28a4193f7c3a
